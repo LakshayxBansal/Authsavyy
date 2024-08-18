@@ -138,7 +138,7 @@ NEXT_PUBLIC_APP_URL=""
   </tr>
   <tr>
     <td><img width="400" alt="Registration Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/registrationPage.PNG"></td>
-    <td><img width="400" alt="Server Side Actions Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/serverSideActionsPage.PNG"></td>
+    <td><img width="400" alt="Server Side Actions Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/serverSideActionsPage.png"></td>
   </tr>
 </table>
 
