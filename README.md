@@ -3,7 +3,8 @@
             <h1 style="font-size: 70px;">🔐 AuthSavvy</h1>
   <br/>
   <p>
-    Authsavvy is a project centered around Auth.js (Previously known as NextAuth). it consists from everything that you might want to get from Auth.js
+    Authsavvy is a project centered around Auth.js (Previously known as NextAuth). it consists from everything that you might want to get from Auth.js 
+(note that any action that requires Email will not work in production unless you verify domain on Resend)
   </p>
 
   <p>
